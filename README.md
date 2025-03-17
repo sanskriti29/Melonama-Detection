@@ -33,6 +33,5 @@ Overfitting issue is solved by class reimbalancing with training accuracy of 90%
 
 Thank you upgrad team for the learning that helped in the project.
 
-Submitted by @Sanskritiimpronics
-Feel free to contact me.
+
 
